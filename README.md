@@ -22,7 +22,7 @@ Interests : Problem-Solving, Competitive Programming, Open-Source Contributions,
 
 ** 📫Connect with Me:**
 **Email:** shrinivasbakki01@gmail.com
-**LinkedIn:** linkedin.com/in/shrinivas-b-75aa7224b
+**LinkedIn:** https://www.linkedin.com/in/shrinivas-b-75aa7224b
 **GitHub**: https://github.com/SHRINIVAS-05
 **Feedback Welcome** :
 I'm still learning and growing as a developer, so I always welcome constructive feedback and suggestions. Feel free to reach out to me on any platform above, and let's connect!
