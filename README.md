@@ -2,7 +2,7 @@
  # Hi, I'm SHRINIVAS 
 
 ## 👀 About Me 
-I'm Currently working as software developer with a strong foundation in software developing, testing and a passion for continuous learning. With experience at Tekfriday Processing Private Limited, a fintech company, I've honed my skills in test case design, automation, defect tracking, mobile testing, and API testing.
+I'm Currently working as software developer with a strong foundation in software developing, testing and a passion for continuous learning. With experience at Tekfriday Processing Private Limited, a fintech company.
 
 I'm eager to transition into a development role and leverage my technical expertise in Java, Spring Boot, MySQL, MS SQL, HTML, CSS, JavaScript, and Bootstrap. I'm particularly interested in full-stack development and backend engineering.
 
