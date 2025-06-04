@@ -1,36 +1,4 @@
 
-# 👋 Hi there, I'm Shrinivas!
-
-## 🚀 About Me
-I'm an enthusiastic **SDE 1** specializing in developing, testing, and debugging web-based applications and APIs. My passion lies in building robust backend systems and seamless web APIs that power user experiences.
-
-## 🛠️ My Toolbox
-- **Languages:** Java, HTML, CSS, JavaScript
-- **Frameworks:** Spring Boot, Spring Framework
-- **Databases:** MS SQL, MySQL
-- **Tools:** Jira
-- **Methodologies:** Agile
-
-## 🌟 Featured Project
-**Finance Application: Loan Lending Platform**  
-Built a full-stack finance application focused on loan lending and processing, utilizing Spring Boot for backend services and robust database integrations.  
-<sub>(Project private? Add a link here if public!)</sub>
-
-## 💡 What I Love
-- Architecting and developing scalable Web APIs
-- Tackling debugging challenges
-- Playing a competitive game of foosball 🏓
-
-## 🤝 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/shrinivas-75aa7224b)
-
----
-
-> “Code. Test. Debug. Repeat. That’s how great products are built.”
-
-<!--
-Profile last updated: 2025-06-04
--->
 
  # Hi, I'm SHRINIVAS 
 
