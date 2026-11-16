@@ -67,6 +67,26 @@ I also have a foundation in Java full-stack development. I enjoy solving problem
 
 ---
 
+## 📊 GitHub at a glance
+
+<div align="center">
+
+[![GitHub followers](https://img.shields.io/github/followers/SHRINIVAS-05?style=for-the-badge&logo=github&label=Followers)](https://github.com/SHRINIVAS-05?tab=followers)
+![Public repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FSHRINIVAS--05&query=%24.public_repos&label=Public%20repos&style=for-the-badge&logo=github)
+![Total stars](https://img.shields.io/github/stars/SHRINIVAS-05?style=for-the-badge&logo=github&label=Stars)
+
+<br />
+
+<img src="https://ghchart.rshah.org/00F5D4/SHRINIVAS-05" alt="Shrinivas's GitHub contribution graph" width="90%" />
+
+<br />
+
+[![LearnNext stars](https://img.shields.io/github/stars/SHRINIVAS-05/LearNext?style=for-the-badge&logo=github&label=LearNext%20stars)](https://github.com/SHRINIVAS-05/LearNext)
+
+</div>
+
+---
+
 ## 📜 Certifications
 
 - Java Full Stack Developer — KodNest
