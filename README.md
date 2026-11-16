@@ -4,7 +4,7 @@
 
 ### Software Engineer · Java Developer · QA Automation Engineer
 
-Building reliable software through quality engineering and Java development.
+Building reliable software through **quality engineering** and **Java development**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shrinivas-75aa7224b/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shrinivasbakki01@gmail.com)
@@ -17,9 +17,9 @@ Building reliable software through quality engineering and Java development.
 
 ## `whoami` 👨‍💻
 
-I'm a software professional with 3+ years of IT experience, currently working as a QA Analyst at TekFriday Processing Solution Pvt. Ltd. on FinTech applications for Advance Financial 24/7. My work includes manual and automation testing, API validation, database testing, and Java-based test automation.
+I'm a software professional with **3+ years of IT experience**, currently working as a **QA Analyst at TekFriday Processing Solution Pvt. Ltd.** on FinTech applications for **Advance Financial 24/7**. My experience spans manual and automation testing, API and database validation, and Java-based test automation.
 
-I also have a strong foundation in Java full-stack development and enjoy solving real-world problems through clean, maintainable code and efficient testing.
+I also have a foundation in Java full-stack development. I enjoy solving problems, writing maintainable code, learning new technologies, and helping teams deliver reliable, scalable software.
 
 ---
 
@@ -31,53 +31,39 @@ I also have a strong foundation in Java full-stack development and enjoy solving
 
 <br />
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 ![TestNG](https://img.shields.io/badge/TestNG-FF6C37?style=flat-square)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 
 </div>
 
-**Also experienced with:** Core Java · J2EE · Spring MVC · Thymeleaf · REST API Testing · Functional Testing · Regression Testing · Integration Testing · End-to-End Testing · Database Testing · Data-Driven Testing · Git · GitHub · Eclipse · SSMS
+**Also experienced with:** Core Java · J2EE · Spring MVC · Thymeleaf · REST API testing · Functional, regression, integration, end-to-end, database, and data-driven testing · MySQL · MSSQL · Eclipse · SSMS
 
 ---
 
-## 💼 Professional experience
+## 💼 Experience
 
 ### QA Analyst · TekFriday Processing Solution Pvt. Ltd.
 **August 2023 – Present**  
 *Project: FiNext · Client: Advance Financial 24/7 (USA)*
 
-- Tested fintech loan-processing workflows for online and in-store applications across multiple US states.
-- Designed and executed functional, regression, integration, and end-to-end test cases.
-- Created and maintained Selenium WebDriver automation scripts using Java, TestNG, and Maven.
-- Improved testing efficiency by approximately 40% through automation.
-- Performed API testing and database validation using Postman and Microsoft SQL Server.
-- Verified third-party integrations, payment gateways, and financial application workflows.
-- Logged and tracked defects in Jira and collaborated with developers, business analysts, and product managers in Agile/Scrum environments.
-- Participated in release validation, smoke testing, and production verification.
+- Test a FinTech loan-processing platform supporting online and in-store applications across multiple US states.
+- Design and execute functional, regression, integration, and end-to-end test cases.
+- Develop and maintain Selenium WebDriver automation using Java, TestNG, and Maven; improved testing efficiency by approximately **40%**.
+- Perform API testing and database validation with Postman and Microsoft SQL Server.
+- Test third-party integrations, payment gateways, and financial application workflows.
+- Track defects in Jira and collaborate with developers, Business Analysts, and Product Managers in Agile/Scrum teams.
+- Support release validation, smoke testing, and production build verification.
 
 ### Java Developer Intern · KodNest
 **September 2022 – August 2023**  
 *Project: Core Payment Integration System*
 
-- Built a modular payment validation framework using Java and Spring Boot.
+- Built a modular payment-validation framework using Java and Spring Boot as part of a Java full-stack learning project.
 - Implemented business rules for duplicate payment detection and payment-attempt validation.
 - Gained practical experience in backend development, database integration, and application architecture.
-
----
-
-## 📌 Highlights
-
-- Java Developer with hands-on experience in modern backend and testing workflows.
-- Strong understanding of Selenium automation, API testing, and database validation.
-- Interested in building reliable, scalable, and quality-focused software products.
-- Comfortable working in Agile teams and collaborating with QA, product, and engineering stakeholders.
 
 ---
 
@@ -99,7 +85,7 @@ Poojya Doddappa Appa College of Engineering · Kalaburagi, Karnataka
 
 ## 🤝 Let's connect
 
-I'm always open to connecting with developers, exploring new technologies, and discussing opportunities in Java backend and full-stack development.
+I'm interested in connecting with developers, exploring new technologies, contributing to projects, and discussing opportunities in Java backend and full-stack development.
 
 - 📧 [shrinivasbakki01@gmail.com](mailto:shrinivasbakki01@gmail.com)
 - 💼 [LinkedIn — Shrinivas Bakki](https://www.linkedin.com/in/shrinivas-75aa7224b/)
