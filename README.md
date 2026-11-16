@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Shrinivas Bakki
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=900&color=00F5D4&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Shrinivas+Bakki;Java+Developer+%7C+QA+Automation+Engineer;Building+reliable+software%2C+one+test+at+a+time" alt="Typing SVG" /></a>
 
 ### Software Engineer · Java Developer · QA Automation Engineer
 
@@ -9,12 +9,13 @@ Building reliable software through **quality engineering** and **Java developmen
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shrinivas-75aa7224b/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shrinivasbakki01@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-SHRINIVAS--05-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SHRINIVAS-05)
+![Profile views](https://komarev.com/ghpvc/?username=SHRINIVAS-05&style=for-the-badge&color=00F5D4&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-## About me
+## `whoami` 👨‍💻
 
 I'm a software professional with **3+ years of IT experience**, currently working as a **QA Analyst at TekFriday Processing Solution Pvt. Ltd.** on FinTech applications for **Advance Financial 24/7**. My experience spans manual and automation testing, API and database validation, and Java-based test automation.
 
@@ -22,29 +23,23 @@ I also have a foundation in Java full-stack development. I enjoy solving problem
 
 ---
 
-## 🧰 Tech stack
+## ⚡ Tech stack
 
-**Languages**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Basic-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+<div align="center">
 
-**Backend & frameworks**  
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white)
+<img src="https://skillicons.dev/icons?i=java,spring,maven,mysql,html,css,js,git,github,jenkins,idea,vscode&theme=dark" alt="Java, Spring, Maven, MySQL, HTML, CSS, JavaScript, Git, GitHub, Jenkins, IDE and VS Code icons" />
 
-**Testing & API**  
+<br />
+
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 ![TestNG](https://img.shields.io/badge/TestNG-FF6C37?style=flat-square)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 
-**Databases, tools & practices**  
-MySQL · Microsoft SQL Server · Git · GitHub · Jira · Jenkins · Eclipse · VS Code · SSMS  
-Functional · Regression · Integration · End-to-End · Database · Data-Driven Testing
+</div>
+
+**Also experienced with:** Core Java · J2EE · Spring MVC · Thymeleaf · REST API testing · Functional, regression, integration, end-to-end, database, and data-driven testing · MySQL · MSSQL · Eclipse · SSMS
 
 ---
 
@@ -72,37 +67,45 @@ Functional · Regression · Integration · End-to-End · Database · Data-Driven
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured projects
+
+<div align="center">
+
+<a href="https://github.com/SHRINIVAS-05/LearNext"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SHRINIVAS-05&repo=LearNext&theme=tokyonight&hide_border=true" alt="LearnNext repository card" /></a>
+
+</div>
 
 ### LearnNext · Online Learning Management Platform
-**Java · J2EE · Spring Boot · Spring MVC · MySQL · Thymeleaf · HTML · CSS · JavaScript · Bootstrap**
+**Java · J2EE · Spring Boot · Spring MVC · MySQL · Thymeleaf · Bootstrap**
 
-An online learning platform connecting teachers and students through course creation, video lessons, and interactive learning.
-
-- Teacher dashboard to create and manage courses, videos, notes, and learning resources.
-- Student course enrollment and purchasing, with flexible course pricing.
-- Interactive comments and student–teacher communication.
-- Responsive Bootstrap interface and MySQL-backed user, course, and transaction data.
+An online learning platform connecting teachers and students through course creation, video lessons, and interactive learning. Features include teacher course management, video and resource uploads, student enrollment and purchasing, comments, flexible pricing, and a responsive interface.
 
 🔗 [View the LearnNext repository](https://github.com/SHRINIVAS-05/LearNext)
 
 ### YouTube Automation Framework
 **Java · Selenium WebDriver · TestNG · Maven · Logback · WebDriverManager**
 
-A Selenium framework for practicing real-world automation testing and framework design.
-
-- Page Object Model structure with TestNG-based execution.
-- Browser management using WebDriverManager, explicit waits, and reusable utilities.
-- Logging with SLF4J and Logback, plus test execution and reporting.
+A Selenium framework featuring the Page Object Model, TestNG execution, browser management, explicit waits, reusable utilities, logging, and test reporting.
 
 ### FiNext · Financial Loan Processing Application
-**Domain:** Financial Services · **Client:** Advance Financial 24/7, USA
+**Financial Services · Advance Financial 24/7, USA**
 
-Tested a financial application supporting online and in-store loan processing.
+Tested loan products and application workflows, third-party integrations, and payment gateways including Wells Fargo, Ingo, Repay, Payliance, and LPP Payment. Performed functional, regression, integration, and database testing.
 
-- Tested loan products, application workflows, and third-party integrations.
-- Validated payment gateways including Wells Fargo, Ingo, Repay, Payliance, and LPP Payment.
-- Performed functional, regression, integration, and database testing.
+---
+
+## 📊 GitHub at a glance
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SHRINIVAS-05&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub profile statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHRINIVAS-05&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+
+<img src="https://streak-stats.demolab.com?user=SHRINIVAS-05&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SHRINIVAS-05&theme=react-dark&hide_border=true&area=true" alt="GitHub contribution activity graph" />
+
+</div>
 
 ---
 
@@ -113,8 +116,6 @@ Tested a financial application supporting online and in-store loan processing.
 - Java Problem Solving (Intermediate) — HackerRank
 - Agile Methodology Virtual Experience Program — Cognizant
 - Java and Spring Framework for Beginners with Spring Boot — Udemy
-
----
 
 ## 🎓 Education
 
