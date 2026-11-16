@@ -67,33 +67,6 @@ I also have a foundation in Java full-stack development. I enjoy solving problem
 
 ---
 
-## 🚀 Featured projects
-
-<div align="center">
-
-<a href="https://github.com/SHRINIVAS-05/LearNext"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SHRINIVAS-05&repo=LearNext&theme=tokyonight&hide_border=true" alt="LearnNext repository card" /></a>
-
-</div>
-
-### LearnNext · Online Learning Management Platform
-**Java · J2EE · Spring Boot · Spring MVC · MySQL · Thymeleaf · Bootstrap**
-
-An online learning platform connecting teachers and students through course creation, video lessons, and interactive learning. Features include teacher course management, video and resource uploads, student enrollment and purchasing, comments, flexible pricing, and a responsive interface.
-
-🔗 [View the LearnNext repository](https://github.com/SHRINIVAS-05/LearNext)
-
-### YouTube Automation Framework
-**Java · Selenium WebDriver · TestNG · Maven · Logback · WebDriverManager**
-
-A Selenium framework featuring the Page Object Model, TestNG execution, browser management, explicit waits, reusable utilities, logging, and test reporting.
-
-### FiNext · Financial Loan Processing Application
-**Financial Services · Advance Financial 24/7, USA**
-
-Tested loan products and application workflows, third-party integrations, and payment gateways including Wells Fargo, Ingo, Repay, Payliance, and LPP Payment. Performed functional, regression, integration, and database testing.
-
----
-
 ## 📊 GitHub at a glance
 
 <div align="center">
