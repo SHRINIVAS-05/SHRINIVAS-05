@@ -71,12 +71,16 @@ I also have a foundation in Java full-stack development. I enjoy solving problem
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SHRINIVAS-05&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub profile statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHRINIVAS-05&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SHRINIVAS-05&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub profile statistics" />
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SHRINIVAS-05&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
 
-<img src="https://streak-stats.demolab.com?user=SHRINIVAS-05&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+<br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SHRINIVAS-05&theme=react-dark&hide_border=true&area=true" alt="GitHub contribution activity graph" />
+<img width="70%" src="https://streak-stats.demolab.com?user=SHRINIVAS-05&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+
+<br />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SHRINIVAS-05&theme=react-dark&hide_border=true&area=true" alt="GitHub contribution activity graph" />
 
 </div>
 
